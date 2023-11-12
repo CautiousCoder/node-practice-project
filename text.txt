@@ -1,0 +1,1 @@
+Eslint init command -> ./node_modules/.bin/eslint --init
